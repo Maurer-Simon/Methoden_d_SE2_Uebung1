@@ -1,0 +1,12 @@
+# ninja log v5
+3	452	7304270763001856	CMakeFiles/uebung1.dir/main.cpp.obj	4baadb32cd05eba8
+612	804	7304270766491862	uebung1.exe	5ffb36851b932acb
+22	602	7304270764511863	CMakeFiles/uebung1.dir/hero.cpp.obj	84bfe316f696512d
+1	157	7304271738952662	build.ninja	3d177daa33e86d2d
+17	441	7304270762901867	CMakeFiles/uebung1.dir/item.cpp.obj	d16a30d607346ba3
+27	612	7304270764611857	CMakeFiles/uebung1.dir/character.cpp.obj	372cd8822e8dde1b
+18	429	7304271792662672	CMakeFiles/uebung1.dir/item.cpp.obj	99026c5a5c95c6f4
+22	463	7304271793002670	CMakeFiles/uebung1.dir/main.cpp.obj	61efefc27126a301
+14	645	7304271794822706	CMakeFiles/uebung1.dir/character.cpp.obj	3eb9757b97b5d88c
+2	646	7304271794832677	CMakeFiles/uebung1.dir/hero.cpp.obj	ce1fcd2cd9258dd6
+647	757	7304271795902667	uebung1.exe	5ffb36851b932acb
